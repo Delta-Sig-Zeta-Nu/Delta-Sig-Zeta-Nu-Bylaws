@@ -1,5 +1,7 @@
 # Delta Sigma Phi - Zeta Nu | Chapter Bylaws
 
+![Emblem](https://www.deltasig.org/wp-content/uploads/2018/01/Wordmark-01.png)
+
 *Date Created: March 30, 2015*
 
 *Date Amended: June 23, 2024*
