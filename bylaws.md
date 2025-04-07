@@ -18,7 +18,7 @@ That as a symmetrical culture, a fraternal communion among the colleges of this 
 
 In furtherance of these aims, the Fraternity has recognized certain standards of attainment and gentlemanly conduct expressed in the ideals symbolically represented by the three Greek letters, Delta, Sigma, and Phi; and it shall be the constant endeavor of the brothers who may be called to preside over and govern the Fraternity, or its component chapter, to enforce the precepts of the Fraternity by every reasonable means within their power, and they, and each Brother of the Fraternity shall exemplify those principles by conduct as well as enforcement in order that the Fraternity may grow and prosper with honor to itself and that the world may ever be convinced of the sincerity of our purpose.
 
-We, the members of this organization, do ordain this constitution of the Zeta Nu Chapter Of Delta Sigma Phi, at Missouri State University, Springfield, Missouri, as the Constitution for the members of the Zeta Nu Chapter Of Delta Sigma Phi. The Zeta Nu Chapter Of Delta Sigma Phi will operate within the rules and regulations of Missouri State University, the guidelines established by the National Fraternity, the laws of the State of Missouri, and the laws of the United States of America.
+We, the members of this organization, do ordain this constitution of the Zeta Nu Chapter of Delta Sigma Phi, at Missouri State University, Springfield, Missouri, as the Constitution for the members of the Zeta Nu Chapter of Delta Sigma Phi. The Zeta Nu Chapter of Delta Sigma Phi will operate within the rules and regulations of Missouri State University, the guidelines established by the National Fraternity, the laws of the State of Missouri, and the laws of the United States of America.
 
 ## Article I - Purpose of Organization
 
@@ -26,7 +26,7 @@ The purpose of the Zeta Nu Chapter of Delta Sigma Phi is to promote leadership a
 
 The Zeta Nu Chapter shall operate under the authority of the Delta Sigma Phi National Fraternity.
 
-The policies and operations of this Chapter shall comply with the National Constitution and Bylaws. The bylaws adopted by the Zeta Nu Chapter Of Delta Sigma Phi shall serve only to supplement the bylaws, constitution, and fraternity manual of the National Fraternity.
+The policies and operations of this Chapter shall comply with the National Constitution and Bylaws. The bylaws adopted by the Zeta Nu Chapter of Delta Sigma Phi shall serve only to supplement the bylaws, constitution, and fraternity manual of the National Fraternity.
 
 ## Article II - Membership
 
@@ -38,7 +38,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + C. Suspended membership status shall be conferred by the Standards Board to any initiated man having been suspended by the Chapter or national organization. 
 
-+ D. Expelled membership status shall be conferred to any initiated man having been removed from the Chapter Through the expulsion procedures outlined by the National Fraternity.
++ D. Expelled membership status shall be conferred to any initiated man having been removed from the Chapter through the expulsion procedures outlined by the National Fraternity.
 
 + E. No other membership status shall be conferred to initiated men, including, but not limited to, “early alumni” or “inactive” status. The National Fraternity may take care of any other scenarios. Members in good standing are those meeting the academic (Article II, Section 1.02, A) and service standards (Article II, Section 1.02, C) defined in these bylaws, as well as those who are not financially delinquent, as defined in Article IX, Section 1.01, M of this document. 
 
@@ -54,7 +54,7 @@ The policies and operations of this Chapter shall comply with the National Const
     
   + a. Extenuating circumstances will be reviewed by the Standards Board.
 
-  + b. The Standards Board may revisit the ruling on a case-by-case basis. If any member does not complete his service hours, they will be subject to a $5 fine for every hour under the assigned amount.
+  + b. The Standards Board may revisit the ruling on a case-by-case basis. If any member does not complete his service hours, they will be subject to a $5.00 fine for every hour under the assigned amount.
 
 + C. New members shall complete ten (10) community service hours by the end of the semester they are initiated. The Executive Board may revisit the ruling on a case-by-case basis.
 
@@ -84,7 +84,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
   + a. Extenuating circumstances may be reviewed by the Standards Board.
 
-+ P. Members shall pay dues, in full, by the first day of the academic semester, unless a payment plan is established and approved by the Treasurer, late fees may be processed.
++ P. Members shall pay dues, in full, by the first day of the academic semester, unless a payment plan is established and approved by the Treasurer. Late fees may be processed.
 
 + Q. Each member shall be responsible for the completion of two (2) therapy or mental health counseling sessions per academic semester (logged and approved by the President and the Health and Wellness Chair). Extenuating circumstances will be reviewed by the Standards Board. The Standards Board may revisit the ruling on a case-by-case basis.
 
@@ -114,7 +114,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 ### Section 1.02 - Chairmen
 
-+ A. The chairmen shall consist of an Academic chair, Brotherhood chair, Community Service chair, Diversity, Equity, and Inclusion chair, Family and Alumni chair, Mental Wellness chair, Physical Wellness chair, Philanthropy chair, Public Relations chair, and Social chair, and any other chair appointed by the Executive Board.
++ A. The chairmen shall consist of an Academic chair; Brotherhood chair; Community Service chair; Diversity, Equity, and Inclusion chair; Family and Alumni chair; Mental Wellness chair; Physical Wellness chair; Philanthropy chair; Public Relations chair; Social chair; and any other chair appointed by the Executive Board.
 
 ### Section 1.03 - Chairmen Responsibilities
 
@@ -144,7 +144,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + b. Keep an updated and accurate log of the approved community service hours for each member.
 
-+ c. Host at least 3 (three) non road clean up community service events for the Chapter To attend.
++ c. Host at least three (3) non road clean up community service events for the Chapter to attend.
 
   + i. After the event, obtain a signed letter or official documentation from the organization indicating the event, the number of attendees, and the total amount of hours volunteered.
 
@@ -152,7 +152,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + a. Uphold Delta Sigma Phi’s cultural values regarding diversity, equity, and inclusion across all Chapter Functions.
 
-+ b. Plan two (2) educational events to be held at chapter meetings per semester;, these topics can include but are not limited to: race, sexual orientation, gender identity, disabilities, cultural appropriation, microaggressions, etc.
++ b. Plan two (2) educational events to be held at chapter meetings per semester; these topics can include, but are not limited to: race, sexual orientation, gender identity, disabilities, cultural appropriation, and microaggressions.
 
 + c. Plan one (1) educational event per semester open to the public regarding topics surrounding diversity, equity, and inclusion.
 
@@ -162,7 +162,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + f. Maintain an updated directory of all campus resources regarding diversity, equity, and inclusion.
 
-+ g. Provide multicultural opportunities to the Chapter And promote all activities from the Multicultural Resource Center.
++ g. Provide multicultural opportunities to the Chapter and promote all activities from the Bear Cave (formerly the Multicultural Resource Center).
 
 + h. Develop, maintain, and preside over a reporting form for any incidents in which a member believes another member should be reported for injustice or insensitivity.
 
@@ -178,21 +178,21 @@ The policies and operations of this Chapter shall comply with the National Const
 
 #### F. Mental Wellness Chair
 
-+ a. Maintain a semester-long program that encourages healthy living, good habits, and setting personal goals
++ a. Maintain a semester-long program that encourages healthy living, good habits, and setting personal goals.
 
-+ b. Facilitate and maintain a support group within the fraternity meeting for at least one (1) session every month
++ b. Facilitate and maintain a support group within the fraternity meeting for at least one (1) session every month.
 
   + i. Support Group Goals:
 
-    1. Maintain a mentality of open communication within the Chapter
+    1. Maintain a mentality of open communication within the Chapter.
 
-    2. Setting monthly achievable goals for personal growth
+    2. Setting monthly achievable goals for personal growth.
 
-      + a. Holding brothers accountable for these goals
+      + a. Holding brothers accountable for these goals.
 
     3. Establish a clear platform for brothers to voice their stresses, frustrations, and triumphs.
 
-    4. Building a more supportive, inclusive, and positive brotherhood
+    4. Building a more supportive, inclusive, and positive brotherhood.
 
 + c. Host at least one (1) educational program including but not limited to one (1) or more of the following categories:
 
@@ -204,7 +204,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + d. Keep an updated and accurate log of the approved therapy sessions for each member.
 
-+ e. Collaborate with the physical wellness and academics chairmen to make a monthly newsletter to the Chapter Regarding positive living habits and other mental wellness-related pointers.
++ e. Collaborate with the physical wellness and academics chairmen to make a monthly newsletter to the Chapter regarding positive living habits and other mental wellness-related assistance.
 
 #### G. Physical Wellness Chair
 
@@ -218,7 +218,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
   + iii. Substance Abuse Awareness
 
-+ c. Facilitate Chapter-Wide intramural sports
++ c. Facilitate Chapter-Wide intramural sports.
 
 + d. Collaborate with the mental wellness, DEI, and academics chairmen to make a monthly newsletter to the Chapter Regarding healthy lifestyle changes and other physical wellness-related pointers.
 
@@ -248,33 +248,33 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + a. Maintain all social media accounts.
 
-+ b. Take photographic accounts of events that the Chapter Is hosting or participating in
++ b. Take photographic accounts of Chapter events.
 
 + c. Maintain the local Delta Sigma Phi website.
 
 + d. Make flyers or promotions for any campus-wide Chapter Event.
 
-+ e. Help manage branding
++ e. Help manage branding.
 
 + f. Will serve on the Recruitment Committee.
 
 #### J. Social Chair
 
-+ a. Coordinate one (1) Fraternity and Sorority Life and one(1) non-Fraternity and Sorority Life event.
++ a. Coordinate one (1) Fraternity and Sorority Life and one (1) non-Fraternity and Sorority Life event.
 
 + b. Coordinate an exchange with Homecoming/Greek Week pairing.
 
 + c. Head semi-formal/formal planning committee
 
-+ d. Be the liaison between the chapter and our chapters’ pairing. This includes posting times and events for members to easily access.
++ d. Be the liaison between the Chapter and our Chapters’ pairing. This includes posting times and events for members to easily access.
 
 + e. Represent the Chapter's values to the Homecoming/Greek Week pairing.
 
-+ f. Ensure the Chapter Has exceptional attendance at events.
++ f. Ensure the Chapter has exceptional attendance at events.
 
 + g. Ability to appoint a liaison to assist, with the Executive Board’s approval.
 
-+ h. Failure to meet these expectations and chairmen may result in being sent to the Standards Board or removal from the chair position.
+#### K. Failure to meet these expectations and chairmen may result in being sent to the Standards Board or removal from the chair position.
 
 ### Section 1.04 - Committees
 
@@ -284,7 +284,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
   + a. Vice President of Recruitment (As found in Article IV, Section 1.05)
 
-    + i. Organize a Google Drive contact list
+    + i. Organize a Google Drive contact list.
 
     + ii. Stay up to date on the contact list names and communicate who needs to be communicated with.
 
@@ -296,19 +296,19 @@ The policies and operations of this Chapter shall comply with the National Const
 
     + i. Ensure deadlines are met (this includes paperwork for the events. The Vice President of Recruitment may turn this in for you, but it is your responsibility to fill them out according to the planning of your events).
     
-    1. Executes logistics (this includes shopping for supplies with the Vice President of Recruitment and utilizing the committee members to help attain your event goals).
+    1. Execute logistics (this includes shopping for supplies with the Vice President of Recruitment and utilizing the committee members to help attain your event goals).
 
   + c. Public Relations Chair (As found in Article III, Section 1.03, Subsection I)
 
-    + i. Will contact people through the Instagram (and all other social media) accounts and post daily updates of rush events.
+    + i. Contact people through the Instagram (and all other social media) accounts and post daily updates of rush events.
 
-    1. Communicate with the Vice President of Recruitment to make proper promotional material, as well as posts, merchandise, and any other material that can boost the Chapters image.
+    1. Communicate with the Vice President of Recruitment to make proper promotional material, as well as posts, merchandise, and any other material that can boost the Chapter's image.
 
     2. Schedule one-on-one talks with Potential New Members as delegated by the Vice President of Recruitment and Manager.
 
   + d. Recruiter(s)
 
-    + i. Schedule one-on-one talks with Potential New Members as delegated by the Vice President of Recruitment and Manager.
+    + i. Schedule one-on-one talks with Potential New Members as delegated by the Vice President of Recruitment and Recruitment Manager.
 
     + ii. Assist the Vice President of Recruitment and Manager with delegated tasks and help plan events as needed.
 
@@ -340,7 +340,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + G. Receive Chapter mailings from the Office of Student Engagement and distribute them accordingly.
 
-+ H. Effectively communicate Chapter Information to National Headquarters.
++ H. Effectively communicate Chapter information to National Headquarters.
 
 + I. Attend weekly meetings with the Chapter Advisor.
 
@@ -352,7 +352,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + A. Work alongside the Chapter President to plan and preside over weekly Executive Board meetings.
 
-+ B. Plan and execute chair meetings with each chair position. Serves as a liaison to the Executive Board from the chairs.
++ B. Plan and execute chair meetings with each chair position. Serve as a liaison to the Executive Board from the chairs.
 
 + C. Oversee and assist various chair positions as assigned by the Executive Board. In the absence of a specifically assigned chair, the Vice President will assume the role.
 
@@ -360,7 +360,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + E. Perform the tasks of the Chapter President in his absence.
 
-+ F. Attend monthly meetings with the chapter advisor.
++ F. Attend monthly meetings with the Chapter Advisor.
 
 + G. Attend weekly Executive Board meetings.
 
@@ -374,25 +374,25 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + C. Perform tasks of the Chapter Vice President in his absence.
 
-+ D. Attend monthly meetings with the chapter advisor.
++ D. Attend monthly meetings with the Chapter Advisor.
 
 + E. Attend weekly Executive Board meetings.
 
 + F. Attend weekly Chapter Meetings.
 
-+ G. Active members below a 3.0 cumulative GPA as well as neophytes, are required to complete a certain number of study hours per week. The number of hours required shall be determined by the Academic’s chair at the beginning of each semester and shall be presented to the Chapter. The required study hours are due at the beginning of Chapter every Sunday at 7PM. Members who do not complete their study hours each week will get a strike. Three (3) strikes will result in a referral to the Standards Board. After three (3) strikes, members will be referred to the Standards Board for every week in which they do not complete their hours.
++ G. Active members below a 3.0 cumulative GPA, as well as New Members, are required to complete a certain number of study hours per week. The number of hours required shall be determined by the Academic Chair at the beginning of each semester and shall be presented to the Chapter. The required study hours are due at the beginning of the Chapter Meeting each week. Members who do not complete their study hours each week will get a strike. Three (3) strikes will result in a referral to the Standards Board. After three (3) strikes, members will be referred to the Standards Board for every week in which they do not complete their hours.
 
 ### Section 1.05 - Secretary
 
 + A. Keep minutes at all Chapter, Executive Board, and any special meetings.
 
-+ B. Send minutes to Chapter Members no more than forty-eight (48) hours following Chapter and Executive Board meetings.
++ B. Send minutes to Chapter members no more than forty-eight (48) hours following Chapter and Executive Board meetings.
 
 + C. Maintain all Chapter Correspondence, paperwork, and records.
 
 + D. Keep an easily accessible calendar with all Chapter events for brothers to refer to at any time (tangible and/or online).
 
-+ E. Maintain an accurate role of undergraduates (new members and initiates) and alumni, including addresses, phone numbers, and emergency contact information.
++ E. Maintain an accurate role of undergraduates (new members and active members) and alumni, including addresses, phone numbers, and emergency contact information.
 
 + F. Ensure all necessary paperwork regarding event registration and travel registration is filed with the Office of Student Engagement.
 
@@ -400,11 +400,11 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + H. Distribute and organize paperwork for awards and applications.
 
-+ I. Serve as a historian for the chapter, documenting award submissions, Chapter Publications, and other historical records.
++ I. Serve as a historian for the Chapter, documenting award submissions, Chapter Publications, and other historical records.
 
 + J. Maintain organization of Google Drive, Slack, and Microsoft Teams.
 
-+ K. Attend monthly meetings with Advisor.
++ K. Attend monthly meetings with the Chapter Advisor.
 
 + L. Attend weekly Executive Board meetings.
 
@@ -428,7 +428,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + H. Notify the Standards Board of all financial delinquency.
 
-+ I. Generate and maintain financial records to present to the Chapter To ensure financial security.
++ I. Generate and maintain financial records to present to the Chapter to ensure financial security.
 
 + J. Attend bi-weekly meetings with the Chapter Advisor.
 
@@ -438,7 +438,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 ### Section 1.07 - Sergeant at Arms
 
-+ A. Ensure that individual members are upholding all standards of the Fraternity through the use of the Standards Board. This includes the oath of membership taken by each member during initiation, as well as adherence to the Fraternity’s code of conduct and risk management policies.
++ A. Ensure that individual members are upholding all standards of the Fraternity through the use of the Standards Board. This includes the oath of membership taken by each member during initiation, as well as adherence to the Fraternity’s Code of Conduct and risk management policies.
 
 + B. Work with other officers and chairs to ensure members are held accountable to membership expectations (this may include meeting attendance, dues payment, participation in community service and campus organizations, etc.)
 
@@ -446,7 +446,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + D. Work to finalize Standards Board procedures using the template provided in the Google Drive folder.
 
-+ E. Maintain all secrets and procedures of our ritual This includes maintaining all ritual equipment, coordinating all ritual activities (including, pinning, initiation, and alumni ceremony), and providing ritual-based education to the chapter.
++ E. Maintain all secrets and procedures of our Ritual. This includes maintaining all Ritual equipment, coordinating all Ritual activities (including, pinning, initiation, and alumni ceremony), and providing Ritual-based education to the Chapter.
 
 + F. Attend monthly meetings with Academic Success and Standards Board Advisor.
 
@@ -456,23 +456,23 @@ The policies and operations of this Chapter shall comply with the National Const
 
 ### Section 1.08 - New Member Educator
 
-+ A. Act as a direct liaison between new members and the chapter.
++ A. Act as a direct liaison between new members and the Chapter.
 
 + B. Prepare and educate new members for initiation.
 
 + C. Report whether new members have met initiation requirements.
 
-+ D. Lead Big/Little reveal.
++ D. Lead Big/Little Reveal.
 
 + E. Lead initiation voting.
 
 + F. Set up ENGAGE certification dates for new members to attend.
 
-+ G. Work with Sergeant at Arms to continue ritual education.
++ G. Work with Sergeant at Arms to continue Ritual education.
 
 + H. Assist the Secretary with maintaining an accurate role of undergraduates, new members, and alumni, including addresses and phone numbers.
 
-+ I. Attend monthly meetings with the chapter advisor.
++ I. Attend monthly meetings with the Chapter Advisor.
 
 + J. Attend weekly Executive Board meetings.
 
@@ -484,15 +484,15 @@ The policies and operations of this Chapter shall comply with the National Const
 
 ### Section 1.01 - Installation and Transition
 
-+ A. Incoming executive officers shall be installed through the formal fraternity ritual during the next-to-last regular meeting of the term in which they were elected.
++ A. Incoming executive officers shall be installed through the formal Fraternity Ritual during the penultimate regular meeting of the term in which they were elected.
 
 + B. Incoming executive officers shall attend the remaining Executive Board meetings of the semester with the outgoing Executive Board.
 
-+ C. The incoming and outgoing Chapter Executive Boards will hold a transition retreat before the first Chapter Meeting of the spring semester.
++ C. The incoming and outgoing Chapter Executive Boards will hold a transition retreat before the first Chapter Meeting of the Spring semester.
 
-+ D. The executive officer’s term will be from January 1st to December 31st.
++ D. The executive officers' term will be from January 1st to December 31st.
 
-+ E. Executive officers can serve more than one term.
++ E. Executive officers shall have no term limit.
 
 ### Section 1.02 - Election Procedures
 
@@ -504,7 +504,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + D. The Chapter President shall provide a notice of elections at least two weeks before the date of the elections.
 
-  + a. During new business, accept nominations (and self-nominations) for all executive positions. There shall be no discussion or arguments made, only nominations.
+  + a. During new business, accept nominations (and self-nominations) for all executive positions. There shall be no discussion or arguments made at this time.
 
   + b. Modifications to this list can be made until the end of the election process, and members can submit changes to the nomination list by contacting the President, Vice President, or Secretary.
 
@@ -520,7 +520,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
     + i. President, Vice President, Vice President of Membership Experience, Vice President of Recruitment, Secretary, Treasurer, Sergeant at Arms, and New Member Educator.
 
-    + ii. Before the meeting, the Treasurer should ensure that there is a clear list of which Chapter members are eligible to vote (must be an active members in good financial standing).
+    + ii. Before the meeting, the Treasurer should ensure that there is a clear list of Chapter members eligible to vote (active members in good financial standing).
 
   + c. Elections are held during old business. The process for each election is as follows:
 
@@ -546,9 +546,9 @@ The policies and operations of this Chapter shall comply with the National Const
 
 ### Section 1.01 - Resignation
 
-+ A. Any Executive officer who is interested in resigning from office must submit a notice to the Executive Board within two (2) weeks before resigning
++ A. Any executive officer who is interested in resigning from office must submit a notice to the Executive Board at least two (2) weeks before resigning
 
-+ B. Any Executive officer who is interested in resigning from office must submit a notice to the Chapter Within one (1) week before resigning, stating why the individual wants to resign.
++ B. Any executive officer who is interested in resigning from office must submit a notice to the Chapter at least one (1) week before resigning, stating the reason for resignation.
 
 ## Article VII - Impeachment and Removal from Office
 
@@ -556,19 +556,19 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + A. Executive officers may be removed from office by a 2/3 vote of the chapter, a majority vote of the ACB, the Chapter Advisor, or any national officer.
 
-+ B. Officers removed by those not holding membership as an undergraduate Chapter Member, may be repealed by the fraternity Executive Director or his designee.
++ B. Officers removed by those not holding membership as an undergraduate Chapter Member, may be repealed by the Fraternity Executive Director or his designee.
 
-+ C. Chairmen and committee men may be removed by the Chapter President, Vice President, or Vice President of Membership Experience following a written statement to the Executive Board noting the inefficiencies of the appointed officer. Additionally, the ACB, Chapter Advisor, or any national officer may remove any appointed officer.
++ C. Chairmen and committee members may be removed by the Chapter President, Vice President, or Vice President of Membership Experience following a written statement to the Executive Board noting the inefficiencies of the appointed officer. Additionally, the ACB, Chapter Advisor, or any national officer may remove any appointed officer.
 
 ## Article VIII - Filling Executive Officer Vacancies
 
 ### Section 1.01 - Executive Board Vacancies
 
-+ A. After the Executive Board has been notified of any Executive Board vacancy, the Executive Board will create a slate of interested members and present them to the Chapter Within two (2) weeks of the vacancy.
++ A. After the Executive Board has been notified of any Executive Board vacancy, the Executive Board will create a slate of interested candidates and present it to the Chapter within two (2) weeks of the vacancy.
 
-+ B. Chapter members will then take an anonymous vote following Parliamentary Procedure at the Chapter Meeting preceding the presentation of the potential positions.
++ B. Chapter members will then take an anonymous vote following Parliamentary Procedure at the Chapter Meeting following the presentation of the vacant position(s).
 
-+ C. The elected Executive officer will be expected to start following Executive Board expectations immediately. 
++ C. The elected executive officer will be expected to start following Executive Board expectations immediately. 
 
 
 ## Article IX - Finances
@@ -577,7 +577,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + A. The Chapter shall establish and utilize a Chapterbank account for all monetary transactions.
 
-+ B. There shall be a Square card reader in the name of the Chapter For philanthropy use only.
++ B. There shall be a Square card reader in the name of the Chapter for Philanthropy use only.
 
 + C. All funds distributed from the Chapter Treasury shall be through GreekBill, the Chapter Debit card, or a check requiring the dual signature by a combination of two (2) of the following: President, Treasurer, and Vice President.
 
@@ -585,9 +585,9 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + E. Any member who is reimbursed from the Chapter’s funds must be approved by the President, Vice President, or Treasurer before the purchase is made. Reimbursements can only be made with an itemized receipt and supervisor approval.
 
-+ F. The Chapter shall be responsible for the payment of national membership, and any other associated fees from National Fraternity’s operations.
++ F. The Chapter shall be responsible for the payment of national membership dues and any other associated fees from the National Fraternity.
 
-+ G. Chapter Membership dues and budget, for the upcoming semester, shall be defined and presented to the Chapter at least two (2) weeks prior to the close of the current academic term.
++ G. Chapter Membership dues and budget for the upcoming semester shall be defined and presented to the Chapter at least two (2) weeks prior to the close of the current academic term.
 
 + H. The Chapter shall budget at least 10% of active member local dues towards savings. Any use of this savings budget must be approved by 2/3 vote of the Chapter or unanimously by the Executive Board.
 
@@ -595,7 +595,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + J. The Chapter shall be responsible for the collection of National and local dues.
 
-+ K. The Chapter shall be responsible for the payment to the national Fraternity regarding new member dues, active member dues, initiation expenses, and any incurred fees.
++ K. The Chapter shall be responsible for the payment to the National Fraternity of New Member Dues, Active Member Dues, initiation expenses, and any incurred fees.
 
 + L. The Chapter shall collect and submit new member fees and dues from all new members two (2) weeks following pinning.
 
@@ -607,11 +607,11 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + P. Members shall be noted as financially delinquent if not paid in full on the first day of the academic term.
 
-  + a. If on a payment schedule, developed between the member and the Treasurer, the member shall be noted as financial delinquent if their account is two (2) weeks past due.
+  + a. If on a payment schedule developed between the member and the Treasurer, the member shall be noted as financial delinquent if their account is two (2) weeks past due.
 
-+ Q. Donations, contributions, gifts, and other non-recurring appropriations may not be made from the Chapter Treasury without a simple majority approval of the chapter.
++ Q. Donations, contributions, gifts, and other non-recurring appropriations may not be made from the Chapter Treasury without a simple majority approval of the Chapter.
 
-+ R. The Chapter shall remain up to date with all IRS reporting, and the Chapter Will collect and record all tax documents for at least seven (7) years.
++ R. The Chapter shall remain up to date with all IRS reporting, and the Chapter will collect and record all tax documents for at least seven (7) years.
 
 + S. Dues for the following academic semester shall be posted to all accounts no later than the end of the second week of the current academic term. (For example, the Spring 2025 dues will be posted at least two weeks into the Fall 2024 semester.)
 
@@ -623,15 +623,15 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + B. Meetings may be changed or canceled by the Chapter President with 24-hour notice to the chapter. In the event of an extreme circumstance, the 24-hour notice may be waived by the Chapter President.
 
-+ C. Quorum must be reached to conduct formal Chapter Business which shall be 50% of the Chapter Plus one (1) member.
++ C. Quorum must be reached to conduct formal Chapter Business which shall be 50% of the Chapter plus one (1) member.
 
-+ D. The use of alcohol, illegal, or controlled substances is prohibited during any meeting or event of the chapter. Any member found under the influence of any of these substances during Chapter Events or meetings shall immediately be brought before the Standards Board for possible suspension or expulsion. Exceptions for alcohol-related events can be granted by the Standards Board.
++ D. The use of alcoholic, illegal, or controlled substances is prohibited during any meeting or event of the Chapter. Any member found under the influence of any of these substances during Chapter events or meetings shall immediately be brought before the Standards Board for possible suspension or expulsion. Exceptions for alcohol-related events can be granted by the Standards Board.
 
-+ E. Members will wear badge attire for all formal Chapter events, and casual attire for any informal Chapter Meetings unless otherwise stated by the Executive Board.
++ E. Members will wear badge attire for all formal Chapter events and casual attire for any informal Chapter Meetings unless otherwise stated by the Executive Board.
 
 + F. Members are expected to follow Robert’s Rules of Order and Parliamentary Procedure and behave accordingly.
 
-+ G. The Chapter Advisor, a national officer, or the ChapterPresident may call a meeting of the Chapter With a 24-hour notice with the approval of the Executive Board.
++ G. The Chapter Advisor, a national officer, or the Chapter President may call a meeting of the Chapter with a 24-hour notice with the approval of the Executive Board.
 
 + H. Members must contact the Sergeant at Arms at least 24 hours in advance of any required meetings in which they will be absent.
 
@@ -639,7 +639,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + J. Each member will be given two (2) free unexcused absences each semester that they may use as they see fit.
 
-+ K. Any unexcused absences from Chapter Meetings, or I-Week events, after the two (2) free unexcused absences have been used will be subject to a $20 fine for each absence. Members may appeal unexcused absences and appeals will be reviewed by the Standards Board. Fines will be due one month from the date they have been assigned.
++ K. Any unexcused absences from Chapter Meetings or I-Week events, after the two (2) free unexcused absences have been used, will be subject to a $20 fine for each absence. Members may appeal unexcused absences and appeals will be reviewed by the Standards Board. Fines will be due one month from the date they have been assigned.
 
 ## Article XI - Voting
 
@@ -653,11 +653,11 @@ The policies and operations of this Chapter shall comply with the National Const
 
 ### Section 1.01 - Hazing
 
-+ A. The Zeta Nu Chapter Of Delta Sigma Phi shall adhere to a strict No-Hazing Policy in accordance with national and university policies, as well as all national and state laws. Hazing is defined as any action or situation created to produce due mental or physical discomfort, embarrassment, harassment, or ridicule. Such activities and situations include, but are not limited to: paddling in any form, excessive fatigue, physical or psychological shocks, kidnaps, scavenger hunts, road trips, degrading, humiliating or fear-provoking games or activities, late work sessions which interfere with scholarship, menial tasks, and any other activity which is not consistent with the ideals and purposes of Delta Sigma Phi or the regulations and policies of this institution.
++ A. The Zeta Nu Chapter Of Delta Sigma Phi shall adhere to a strict No-Hazing Policy in accordance with national and university policies, as well as all national and state laws. Hazing is defined as any action or situation created to produce due mental or physical discomfort, embarrassment, harassment, or ridicule. Such activities and situations include, but are not limited to: paddling in any form, excessive fatigue, physical or psychological shocks, kidnapping, scavenger hunts, road trips, degrading, humiliating or fear-provoking games or activities, late work sessions which interfere with scholarship, menial tasks, and any other activity which is not consistent with the ideals and purposes of Delta Sigma Phi or the regulations and policies of this institution.
 
-+ B. Any member participating in, or having unreported knowledge of, hazing shall be brought immediately to the Standards Board for a hearing and shall be reported to the Chapter ACB, national headquarters, and appropriate campus officials.
++ B. Any member participating in, or having unreported knowledge of, hazing shall be brought immediately to the Standards Board for a hearing and shall be reported to the Chapter ACB, National Headquarters, and appropriate campus officials.
 
-+ C. Any member found to have participated in, or having unreported knowledge of, any hazing activity shall be immediately expelled from the chapter.
++ C. Any member found to have participated in, or having unreported knowledge of, any hazing activity shall be immediately expelled from the Chapter.
 
 ### Section 1.02 - FIPG and Social Events
 
@@ -665,11 +665,11 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + B. All Chapter events shall adhere to the FIPG Policy and Event Guidelines. 
 
-+ C. Any event involving another organization, outside group, or third-party vendor shall be reported to the fraternity national headquarters on the Special Events Form, as well as to campus officials via the appropriate reporting procedures. 
++ C. Any event involving another organization, outside group, or third-party vendor shall be reported to the National Headquarters on the Special Events Form, as well as to campus officials via the appropriate reporting procedures. 
 
 ### Section 1.03 - Standards Board
 
-+ A. The Standards Board shall serve as the only judicial body of the chapter.
++ A. The Standards Board shall serve as the only judicial body of the Chapter.
 
 + B. Standards Board structure, procedures, and responsibilities are defined in the Chapter Standards Board handbook.
 
@@ -677,19 +677,19 @@ The policies and operations of this Chapter shall comply with the National Const
 
 ### Section 1.04 - Risk Management Program
 
-+ A. The Chapter shall train the membership, both initiated and new members, each semester on the National, Office of Student Engagement, and Interfraternity Council risk management policies and code of conduct, within the first month of each semester.
++ A. The Chapter shall train the membership, including both active members and new members, on the National, Office of Student Engagement, and Interfraternity Council risk management policies and Code of Conduct, within the first month of each semester.
 
 ## Article XIII - Amendments to the Bylaws
 
-+ A. shall be reviewed and developed annually at the Executive Board Transition Retreat. 
++ A. Bylaw revisions shall be reviewed and developed annually at the Executive Board Transition Retreat. 
 
-+ B. Any proposed amendments should be presented to the ChapterPresident within twenty-four (24) hours of the desired presentation of the amendment to the chapter. 
++ B. Any proposed amendments should be presented to the Chapter President within twenty-four (24) hours of the desired presentation of the amendment to the Chapter. 
 
-+ C. Any amendment to these bylaws must be passed with a 2/3 vote of the whole chapter.
++ C. Any amendment to these bylaws must be passed with a 2/3 vote of the Chapter.
 
-+ D. Any updated set of these Chapter Bylaws shall be sent to all Chaptermembers, national fraternity headquarters, ChapterAdvisor, and the ChapterACB each semester.
++ D. Any updated set of these Chapter Bylaws shall be sent to all Chapter members, National Fraternity Headquarters, Chapter Advisor, and the Chapter ACB each semester.
 
-+ E. The Executive Board can make changes to this document without proposal to the Chapterand without a 2/3 vote, as long as changes being made only involve grammatical corrections or formatting changes
++ E. The Executive Board can make changes to this document without proposal to the Chapter and without a 2/3 vote, as long as changes being made only involve grammatical corrections or formatting changes.
 
 ## Article XIV - Ratification
 
@@ -697,4 +697,4 @@ The policies and operations of this Chapter shall comply with the National Const
 
 ## Article XV - Empowerment
 
-+ A. This constitution will take effect after it is accepted by both the Office of Student Engagement and Student Government Association of Missouri State University, and a 2/3 majority vote accepted by the members of the Zeta Nu Chapter Of Delta Sigma Phi.
++ A. This constitution will take effect after it is accepted by both the Office of Student Engagement and Student Government Association of Missouri State University, and a 2/3 majority vote of approval by the members of the Zeta Nu Chapter of Delta Sigma Phi.
