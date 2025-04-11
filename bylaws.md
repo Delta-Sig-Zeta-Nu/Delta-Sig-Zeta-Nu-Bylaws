@@ -88,7 +88,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + P. Members shall pay dues, in full, by the first day of the academic semester, unless a payment plan is established and approved by the Treasurer. Late fees may be processed.
 
-+ Q. Each member shall be responsible for the completion of two (2) therapy or mental health counseling sessions per academic semester (logged and approved by the President and the Health and Wellness Chair). Extenuating circumstances will be reviewed by the Standards Board. The Standards Board may revisit the ruling on a case-by-case basis.
++ Q. Each member shall be responsible for the completion of two (2) therapy or mental health counseling sessions per academic semester (logged and approved by the President and the Mental Wellness Chair). Extenuating circumstances will be reviewed by the Standards Board. The Standards Board may revisit the ruling on a case-by-case basis.
 
   + a. If any member does not complete his sessions, they will be subject to an additional one (1) required service hour for every session under the assigned amount of two (2).
 
