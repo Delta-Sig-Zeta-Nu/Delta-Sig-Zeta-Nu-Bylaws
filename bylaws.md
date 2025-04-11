@@ -34,9 +34,11 @@ The policies and operations of this Chapter shall comply with the National Const
 
 ### Section 1.01 - Membership Status
 
-+ A. Active membership status shall be conferred to any initiated undergraduate man enrolled at Missouri State University. 
++ A. Active membership status shall be conferred to any initiated undergraduate self-identifying man enrolled at Missouri State University. 
 
-+ B. Alumni membership status shall be conferred to any initiated man who has graduated from Missouri State University, as well as any advisor approved by the Executive Board of the Zeta Nu Chapter. 
++ B. Alumni membership status shall be conferred to any initiated self-identifying man who has graduated from Missouri State University, as well as any advisor approved by the Executive Board of the Zeta Nu Chapter. 
+
+  + a. In the case of an active member in good standing no longer self-identifying as a man, they are permitted to complete the current semester and participate in that semester's alumni ceremony, receiving full alumni status.
 
 + C. Suspended membership status shall be conferred by the Standards Board to any initiated man having been suspended by the Chapter or national organization. 
 
@@ -44,9 +46,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + E. No other membership status shall be conferred to initiated men, including, but not limited to, “early alumni” or “inactive” status. The National Fraternity may take care of any other scenarios. Members in good standing are those meeting the academic (Article II, Section 1.02, A) and service standards (Article II, Section 1.02, C) defined in these bylaws, as well as those who are not financially delinquent, as defined in Article IX, Section 1.01, M of this document. 
 
-+ F. Members not in good standing will automatically be placed on social probation, as well as any other probation as seen fit by the Standards Board. 
-
-+ G. Members not in good standing will automatically be placed on social probation or any other probation deemed fit by the Standards Board. 
++ F. Members not in good standing will automatically be placed on social probation, as well as any other probation as seen fit by the Standards Board.
 
 ### Section 1.02 - Membership Requirements
 
@@ -94,17 +94,17 @@ The policies and operations of this Chapter shall comply with the National Const
 
 ### Section 1.03 - Membership Requirements: Scholarship
 
-+ A. Initiated brothers in good standing must maintain a 2.5 cumulative GPA. Members below 3.0 will be placed on an academic plan. 
++ A. Initiated brothers in good standing must maintain a 2.5 cumulative GPA or a 2.5 semesterly GPA from the previous academic semester. Members below 3.0 will be placed on an academic plan. 
 
-+ B. First-semester new members’ midterm grades will be evaluated by the President, Academic Advisor, and Academic Chairman. Those not expected to achieve a 2.5 cumulative GPA will be reviewed prior to initiation.
++ B. First-semester new members’ midterm grades will be evaluated by the President, Academic Advisor, and Academic Chairman. Those not expected to achieve a 2.5 cumulative GPA will be reviewed prior to initiation and placed on an academic plan provided by the Academic Chair.
 
-+ C. New members with a completed college semester must maintain a 2.5 cumulative GPA to be initiated.
++ C. New members with a completed college semester must maintain a 2.5 cumulative GPA or a 2.5 semesterly GPA from the previous academic semester to be initiated.
 
-+ D. To hold executive office, members must maintain a 2.5 cumulative GPA.
++ D. To hold executive office, members must maintain a 2.5 cumulative GPA or a 2.5 semesterly GPA from the previous academic semester.
 
-+ E. To hold a chairman position, members must maintain a 2.5 cumulative GPA.
++ E. To hold a chairman position, members must maintain a 2.5 cumulative GPA or a 2.5 semesterly GPA from the previous academic semester.
 
-+ F. Any member falling below the scholastic standard shall be referred to the Standards Board for support and sanctioning and shall be placed on the academic program coordinated through the Academic Chairman. Through this program, any member not in good academic standing will be subject to weekly study hours. The number of study hours assigned to a member will be dependent on the severity of the infraction.
++ F. Any member falling below the scholastic standard shall be referred to the Standards Board for support and sanctioning and shall be placed on the academic program coordinated through the Academic Chairman. Through this program, any member not in good academic standing will be subject to weekly study hours or other requirements. The number of study hours assigned to a member will be dependent on the severity of the infraction.
 
 ## Article III - Zeta Nu Chapter Structure
 
@@ -112,11 +112,11 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + A. The Executive Board shall comprise of the President, Vice President, Vice President of Membership Experience, Vice President of Recruitment, Secretary, Treasurer, Sergeant at Arms, and New Member Educator. 
 
-+ B. In the event of an absence of positions within the fraternity, the following lines of succession will detail the position that will fill the upper-level positions as necessary: President, Vice President, Vice President of Membership Experience, Sergeant at Arms, Vice President of Recruitment, Secretary, Treasurer, New Member Educator. In the event that no executive positions are available to step into another position, the Chapter Advisor should first be contacted for further direction and guidance. If the Chapter Advisor cannot be contacted, then the Chapter Support Specialist should be contacted. 
++ B. In the event of an absence of positions within the Fraternity, the Chapter Advisor will select an interim officer in consultation with the remaining executive officers. 
 
 ### Section 1.02 - Chairmen
 
-+ A. The chairmen shall consist of an Academic chair; Brotherhood chair; Community Service chair; Diversity, Equity, and Inclusion chair; Family and Alumni chair; Mental Wellness chair; Physical Wellness chair; Philanthropy chair; Public Relations chair; Social chair; and any other chair appointed by the Executive Board.
++ A. The chairmen shall consist of an Academic chair; Brotherhood chair; Community Service chair; Diversity, Equity, and Inclusion chair; Family and Alumni chair; Mental Wellness chair; Physical Wellness chair; Philanthropy and Fundraising chair; Public Relations chair; Social chair; and any other chair appointed by the Executive Board.
 
 ### Section 1.03 - Chairmen Responsibilities
 
@@ -390,7 +390,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + B. Send minutes to Chapter members no more than forty-eight (48) hours following Chapter and Executive Board meetings.
 
-+ C. Maintain all Chapter Correspondence, paperwork, and records.
++ C. Maintain all Chapter Correspondence, paperwork, and records, including but not limited to the Executive Drive, Chair Drive, and physical hard drives.
 
 + D. Keep an easily accessible calendar with all Chapter events for brothers to refer to at any time (tangible and/or online).
 
@@ -538,6 +538,10 @@ The policies and operations of this Chapter shall comply with the National Const
 
     + vi. The Chief Elections Officer and the Chapter Advisor review ballots immediately and announce the winner before the next election.
 
+      1. In elections with three (3) or more candidates, if no candidate receives more than 50% of the votes, the candidate with the fewest votes will be removed from consideration, and a run-off election will be held with the remaining candidates.
+
+      2. This process will be repeated until one candidate receives a majority (50% plus one) vote from the chapter.
+
     + vii. Repeat for each of the Executive Board positions.
 
   + d. If a vacancy opens on election night (e.g. no one is on the ballot for Vice President of Recruitment), nominations may be held from the floor, and prior procedure will follow.
@@ -579,7 +583,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + A. The Chapter shall establish and utilize a Chapterbank account for all monetary transactions.
 
-+ B. There shall be a Square card reader in the name of the Chapter for Philanthropy use only.
++ B. There shall be a Square card reader in the name of the Chapter.
 
 + C. All funds distributed from the Chapter Treasury shall be through GreekBill, the Chapter Debit card, or a check requiring the dual signature by a combination of two (2) of the following: President, Treasurer, and Vice President.
 
@@ -683,7 +687,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 ## Article XIII - Amendments to the Bylaws
 
-+ A. Bylaw revisions shall be reviewed and developed annually at the Executive Board Transition Retreat. 
++ A. Bylaw revisions shall be reviewed and developed semesterly by the Standards Board. 
 
 + B. Any proposed amendments should be presented to the Chapter President within twenty-four (24) hours of the desired presentation of the amendment to the Chapter. 
 
