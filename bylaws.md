@@ -268,7 +268,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + c. Head semi-formal/formal planning committee
 
-+ d. Be the liaison between the Chapter and our Chapters’ pairing. This includes posting times and events for members to easily access.
++ d. Be the liaison between the Chapter and our Chapter's pairing. This includes posting times and events for members to easily access.
 
 + e. Represent the Chapter's values to the Homecoming/Greek Week pairing.
 
@@ -276,7 +276,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + g. Ability to appoint a liaison to assist, with the Executive Board’s approval.
 
-#### K. Failure to meet these expectations and chairmen may result in being sent to the Standards Board or removal from the chair position.
+#### K. Failure to meet these expectations may result in being sent to the Standards Board or removal from the chair position.
 
 ### Section 1.04 - Committees
 
@@ -667,7 +667,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + B. All Chapter events shall adhere to the FIPG Policy and Event Guidelines. 
 
-+ C. Any event involving another organization, outside group, or third-party vendor shall be reported to the National Headquarters on the Special Events Form, as well as to campus officials via the appropriate reporting procedures. 
++ C. Any event involving another organization, outside group, or third-party vendor shall be reported to the National Headquarters of the Fraternity on the Special Events Form, as well as to campus officials via the appropriate reporting procedures. 
 
 ### Section 1.03 - Standards Board
 
