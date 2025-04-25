@@ -583,7 +583,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 + A. The Chapter shall establish and utilize a Chapterbank account for all monetary transactions.
 
-+ B. There shall be a Square card reader in the name of the Chapter.
++ B. There shall be a Square account in the name of the Chapter.
 
 + C. All funds distributed from the Chapter Treasury shall be through GreekBill, the Chapter Debit card, or a check requiring the dual signature by a combination of two (2) of the following: President, Treasurer, and Vice President.
 
