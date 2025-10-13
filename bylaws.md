@@ -414,7 +414,7 @@ The policies and operations of this Chapter shall comply with the National Const
 
 ### Section 1.06 - Treasurer
 
-+ A. Manage and supervise all inflows and outflows of cash within the chapter. This includes, but is not limited to, Chapter Dues.
++ A. Manage and supervise all inflows and outflows of cash within the Chapter. This includes, but is not limited to, Chapter Dues.
 
 + B. Maintain the Chapter bank account, PayPal, Square, and GreekBill.
 
